@@ -24,14 +24,9 @@ Links should have the following format
 
 Name, Lines of Code, Number of Libraries
 
+For Examples and to get started, check out
 
-* Examples
-
-** Reagent
-
-*** Twitter Style Autocomplete 
-
-[[file:Examples/facebook-autocomplete.gif][file:~/src/active/polya/Examples/facebook-autocomplete.gif]]
+https://github.com/Conaws/polya/wiki
 
 
 
