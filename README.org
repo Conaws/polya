@@ -15,7 +15,9 @@ This wiki is based on a few premises
 
 The goal of this wiki is to collect a bunch of sample problems for learning various libraries, patterns, and idioms in the Clojure language. 
 
-When you find a problem you have solved, we encourage you to put your solution in a Gist, and provide a link to it in the solution sections -- along with 
+Ideally, each library would have a section of their wiki dedicated to posting challenge problems and user submitted solutions, but for now, we can start by posting them here.
+
+When you find a problem you have solved, consider putting your solution in a Gist, and posting a link here
 the number of lines of code in your solution
 
 Links should have the following format 
@@ -24,6 +26,14 @@ Name, Lines of Code, Number of Libraries
 
 
 * Examples
+
+** Reagent
+
+*** Twitter Style Autocomplete 
+
+[[file:Examples/facebook-autocomplete.gif][file:~/src/active/polya/Examples/facebook-autocomplete.gif]]
+
+
 
 
 
