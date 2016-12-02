@@ -1,0 +1,31 @@
+
+* Concept
+
+Have you ever come across an interesting library and thought, "This looks cool, but when would I really use this?"
+
+Have you ever thought that about a core function?
+
+This wiki is based on a few premises
+
+ * That we learn best when we're working through interesting problems
+ * Big complex problems can often be "decomplected", or broken down into a collection of smaller sub problems
+ * Once you've solved a small problem, its nice to see what other larger problems you've just gotten closer to solving
+ * If you're going to invest a bunch of time in learning a concept, it is helpful to have some idea what it might be useful for
+ * It can be really helpful to see what other approaches people have taken to solving the same problem
+
+The goal of this wiki is to collect a bunch of sample problems for learning various libraries, patterns, and idioms in the Clojure language. 
+
+When you find a problem you have solved, we encourage you to put your solution in a Gist, and provide a link to it in the solution sections -- along with 
+the number of lines of code in your solution
+
+Links should have the following format 
+
+Name, Lines of Code, Number of Libraries
+
+
+* Examples
+
+
+
+
+
